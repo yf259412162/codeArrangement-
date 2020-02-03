@@ -1,0 +1,2 @@
+include ':app', ':amodule', ':bmodule', ':aroute', ':annotations', ':annotation_compiler', ':basearoute'
+rootProject.name='My Application'

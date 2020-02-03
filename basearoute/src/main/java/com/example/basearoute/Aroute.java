@@ -27,6 +27,7 @@ public class Aroute {
 
     private HashMap<String, Class<?>> activityMaps = new HashMap<>();
 
+
     private Context context;
 
     public static Aroute getInstance() {

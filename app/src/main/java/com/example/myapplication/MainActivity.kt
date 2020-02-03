@@ -18,6 +18,9 @@ import kotlinx.android.synthetic.main.activity_main.*
 class MainActivity : AppCompatActivity(), View.OnClickListener {
 
 
+    /**
+     * 进行一次测试提交
+     */
     override fun onClick(v: View?) {
 
         Log.i("tainan", "执行到了onClick")
